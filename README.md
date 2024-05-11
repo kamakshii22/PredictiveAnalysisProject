@@ -1,7 +1,7 @@
 # Project Title: Loan Eligibility Prediction
 
 ## Problem Statement 
-In the banking sector, loan approval processes traditionally involve extensive document verification and criteria validation, leading to time-consuming procedures. To streamline this process and expedite loan eligibility decisions, there is a need for a predictive system. The objective of this project is to leverage data science and machine learning algorithms to develop a classification model. This model will categorize loan applicants as either eligible or ineligible based on the information provided in their loan application form. By automating the loan eligibility assessment process, banks can optimize efficiency, reduce processing time, and enhance customer experience.
+In the banking sector, loan approval processes traditionally involve extensive document verification and criteria validation, leading to time-consuming procedures. To streamline this process and expedite loan eligibility decisions, there is a need for a predictive system. The objective of this project is to leverage data science and machine learning algorithms to develop a classification model. This model will categorize loan applicants as either eligible or ineligible based on the information provided in their loan application form. 
 
 ## Abstract:
 This project aims to predict loan eligibility using machine learning algorithms, specifically Decision Tree and Naive Bayes. The data used was analyzed for its distribution, outliers, and missing values before being pre-processed. Independent and dependent variables were identified, and training and test sets were split. Categorical variables were converted to numeric format, and the data was scaled for optimal model performance.
